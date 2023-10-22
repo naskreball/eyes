@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<head>
+    <style></style>
+</head>
 <div id="hitarea">
     <div id="a-1" class="hitbox"></div>
     <div id="a-2" class="hitbox"></div>
@@ -33,3 +37,4 @@
     <div class="eyelid"></div>
     <div class="eyelid"></div>
 </div>
+</html>
